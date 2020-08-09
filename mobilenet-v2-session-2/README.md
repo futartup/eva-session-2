@@ -10,5 +10,4 @@ The model is Mobilenet v2 for training.
 ### accuracy vs epochs graphs for train and test curves
 
 ### 10 misclassified images for each of the classes as an Image Gallery
-
-[image](https://github.com/futartup/eva-session-2/blob/master/mobilenet-v2-session-2/misclassified.jpg)
+<img src='https://github.com/futartup/eva-session-2/blob/master/mobilenet-v2-session-2/misclassified.jpg' width="200" height="200">

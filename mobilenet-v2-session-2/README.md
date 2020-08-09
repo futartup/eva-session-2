@@ -11,4 +11,4 @@ The model is Mobilenet v2 for training.
 
 ### 10 misclassified images for each of the classes as an Image Gallery
 
-[image][https://github.com/futartup/eva-session-2/blob/master/mobilenet-v2-session-2/misclassified.jpg]
+[image](https://github.com/futartup/eva-session-2/blob/master/mobilenet-v2-session-2/misclassified.jpg)

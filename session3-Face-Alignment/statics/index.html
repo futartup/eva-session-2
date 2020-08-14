@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>EVAP2</title>
+    </head>
+    <body>
+        <div class="grid-x grid-margin-x" style="margin-top: 2%;">
+            <div class="large-12 cell">
+                <h4 id="imageClassifiers">Image Classifiers</h4>
+            </div>
+            <div class="large-4 cell">
+                <h4>Resnet Example</h4>
+                <label for="resnet34FileUpload">Please choose image file you want to classify</label>
+                <input type="file" id="resnet34FileUpload">
+                <div class="large-8 cell">
+                    <input type="button" id="btnResNetUpload" class="button" value="Classify Image">
+                </div>
+
+                <h4>Mobilenet v2 Example</h4>
+                <label for="mobilenet34FileUpload">Please choose image file you want to classify</label>
+                <input type="file" id="mobilenet34FileUpload">
+                <div class="large-8 cell">
+                    <input type="button" id="btnMobileNetUpload" class="button" value="Classify Image">
+                </div>
+
+                <h4>Mobilenet v2 Example</h4>
+                <label for="mobilenet34FileUpload">Please choose image file you want to classify</label>
+                <input type="file" id="mobilenet34FileUpload">
+                <div class="large-8 cell">
+                    <input type="button" id="btnMobileNetUpload" class="button" value="Classify Image">
+                </div>
+
+                <h4>Face Alignment Example</h4>
+                <label for="facealignment34FileUpload">Please choose image file you want to classify</label>
+                <input type="file" id="facealignment34FileUpload">
+                <div class="large-8 cell">
+                    <input type="button" id="btnFaceAlignmentUpload" class="button" value="Face Alignment Image">
+                </div>
+
+                <p id="result">
+
+                </p>
+                <div id="image_view">
+                    <img id="uploaded_image">
+                </div>
+            </div>
+        </div>
+    </body>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    <script src="js/main.js"></script>
+</html>

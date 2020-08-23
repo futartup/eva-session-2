@@ -59,3 +59,8 @@ While training the model, we freezed the initial layers and fine-tuned last five
 ```
 param.requires_grad = False
 ```
+
+## Group Members
+- Anup Gogoi
+- Siddharth Surange
+- Pratik Jain

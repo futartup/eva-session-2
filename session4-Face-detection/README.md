@@ -2,9 +2,3 @@
 
 [![Website](https://img.shields.io/badge/Website-green.svg)]()
 
-
-
-## Group Members
-- Anup Gogoi
-- Siddharth Surange
-- Pratik Jain

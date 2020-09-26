@@ -25,11 +25,7 @@ As a fun, i tried to do the same with MNIST and the latentz vector is only 10 el
 
 But how did i do that ? hmmm ... i used ONNX.JS ! it was really great to understand how it worked, though a lot tiring. but it works !
 
-Here's the link **[https://thetensorclan-web.herokuapp.com/mnist-vae](https://thetensorclan-web.herokuapp.com/mnist-vae)** It might take some time to load the model. one it does, simply draw something on the canvas !
 
-![demo6](demo6.gif)
-
-Notebooks Associated - [https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0-Phase-2/blob/master/07-VariationalAutoEncoders/VAE_MNIST_Experiments.ipynb](https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0-Phase-2/blob/master/07-VariationalAutoEncoders/VAE_MNIST_Experiments.ipynb) - [https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0-Phase-2/blob/master/07-VariationalAutoEncoders/VAE_MNIST_ONNXJS.ipynb](https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0-Phase-2/blob/master/07-VariationalAutoEncoders/VAE_MNIST_ONNXJS.ipynb)
 
 ## Notes
 

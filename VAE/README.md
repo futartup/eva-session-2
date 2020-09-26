@@ -8,7 +8,7 @@ Solve the last problem using VAEs.
 
 [https://githubtocolab.com/satyajitghana/TSAI-DeepVision-EVA4.0-Phase-2/blob/master/07-VariationalAutoEncoders/RedCar_VAE.ipynb](https://githubtocolab.com/satyajitghana/TSAI-DeepVision-EVA4.0-Phase-2/blob/master/07-VariationalAutoEncoders/RedCar_VAE.ipynb)
 
-## URL [https://thetensorclan-web.herokuapp.com/red-car-vae](https://thetensorclan-web.herokuapp.com/red-car-vae)
+
 
 ## Demo
 
